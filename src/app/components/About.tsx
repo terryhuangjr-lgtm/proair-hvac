@@ -1,5 +1,4 @@
 import { Award, Users, Target, TrendingUp } from 'lucide-react';
-
 export default function About() {
   return (
     <section id="about" className="py-24 bg-gradient-to-b from-neutral-900 to-black">
@@ -13,19 +12,18 @@ export default function About() {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
           </div>
-
           <div>
             <h2 className="text-5xl font-black text-white mb-6 tracking-tight">
               The Future of<br />
               <span className="text-red-500">Climate Control</span>
             </h2>
             <p className="text-lg text-neutral-400 mb-6 leading-relaxed font-light">
-              Heat Inc is redefining HVAC service for Long Island. We're a new company with a fresh approach: cutting-edge technology, transparent pricing, and service that actually shows up when we say we will.
+              ProAir HVAC is redefining HVAC service for Long Island. We're a modern company with a fresh approach: cutting-edge technology, transparent pricing, and service that actually shows up when we say we will.
             </p>
             <p className="text-lg text-neutral-400 mb-10 leading-relaxed font-light">
               No decades of "experience" doing things the old way. Just modern solutions, efficient service, and a commitment to getting it right the first time.
             </p>
-            
+
             <div className="space-y-5 mb-10">
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 bg-gradient-to-br from-red-500 to-orange-500 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -55,7 +53,6 @@ export default function About() {
                 </div>
               </div>
             </div>
-
             <div className="p-8 bg-gradient-to-br from-neutral-900 to-black border border-neutral-800 rounded-2xl">
               <div className="flex items-center gap-3 mb-4">
                 <Award className="w-6 h-6 text-red-500" />
