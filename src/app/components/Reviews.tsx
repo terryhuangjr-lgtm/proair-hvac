@@ -7,7 +7,7 @@ export default function Reviews() {
       name: "Michael Chen",
       date: "1 week ago",
       rating: 5,
-      text: "Called Heat Inc for an emergency AC repair on the hottest day of summer. They were here in under 90 minutes and had us back up and running. Professional, fast, and fairly priced. This is how HVAC service should be done."
+      text: "Called ProAir HVAC for an emergency AC repair on the hottest day of summer. They were here in under 90 minutes and had us back up and running. Professional, fast, and fairly priced. This is how HVAC service should be done."
     },
     {
       name: "Sarah Rodriguez",
