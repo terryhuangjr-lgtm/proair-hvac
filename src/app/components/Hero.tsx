@@ -1,4 +1,3 @@
-typescript
 
 import { Phone, ArrowRight, Thermometer } from 'lucide-react';
 export default function Hero() {
