@@ -45,7 +45,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-red-500" />
-                <a href="mailto:info@heatinc.com" className="hover:text-white transition-colors">info@heatinc.com</a>
+                <a href="mailto:info@proairhvac.com" className="hover:text-white transition-colors">info@proairhvac.com</a>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-5 h-5 text-red-500" />
