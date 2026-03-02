@@ -7,8 +7,8 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           <div>
             <div className="text-3xl font-black tracking-tight mb-6">
-              <span className="text-white">HEAT</span>
-              <span className="text-red-500"> INC</span>
+              <span className="text-white">PROAIR</span>
+              <span className="text-red-500"> HVAC</span>
             </div>
             <p className="text-neutral-400 leading-relaxed font-light">
               Modern HVAC solutions for Long Island homes and businesses.
