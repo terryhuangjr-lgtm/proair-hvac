@@ -117,8 +117,8 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="font-medium text-neutral-400 mb-1">Email</p>
-                    <a href="mailto:info@heatinc.com" className="text-xl font-bold text-white hover:text-red-400 transition-colors">
-                      info@heatinc.com
+                    <a href="mailto:info@proairhvac.com" className="text-xl font-bold text-white hover:text-red-400 transition-colors">
+                      info@proairhvac.com
                     </a>
                   </div>
                 </div>
