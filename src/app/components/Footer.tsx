@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="border-t border-neutral-900 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-neutral-500 text-sm font-light">
-            © 2026 Heat Inc. All rights reserved.
+            © 2026 Pro Air HVAC. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-neutral-500">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
